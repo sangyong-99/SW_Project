@@ -14,7 +14,8 @@
 > 1. 연산량 문제: 고해상도의 Voxel을 다룰 때는 연산량이 많아지는 문제가 있습니다. 세제곱의 연산량이 필요하기 때문에 대규모의 3D 데이터를 다룰 때는 높은 성능의 하드웨어가 필요합니다.
 > 2. 메모리 요구량: 고해상도의 Voxel을 다룰 때는 메모리 요구량이 매우 커집니다. 대용량의 메모리가 필요하거나 데이터 압축 알고리즘이 필요할 수 있습니다.
 > 3. 해상도와 품질 사이의 상충관계: 연산량과 메모리 요구량 문제로 인해 고해상도의 Voxel을 사용할수록 세밀한 표현이 가능하지만, 이로 인해 품질과 연산 비용 사이에 상충관계가 발생할 수 있습니다.
-<img src="../Image/VoxelErrorRate.png" width="580" height="240">
+<img src="https://github.com/sangyong-99/SW_Project/blob/main/%EC%9D%B4%EB%A1%A0/Image/%08VoxelErrorRate.png?raw=true" width="580" height="240">
+
 
 ## Mesh의 장단점
 - 장점
